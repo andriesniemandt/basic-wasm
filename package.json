@@ -1,0 +1,15 @@
+{
+  "name": "basic-wasm",
+  "version": "1.0.0",
+  "description": "A basic WebAssembly project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/server.js"
+  },
+  "author": "AD Niemandt",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
